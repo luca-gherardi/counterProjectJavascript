@@ -13,3 +13,5 @@
  "AZZERA" = CLEAR: pushing this button the value of the counter resets.
  
  "INSERISCI" = INSERT: pushing this button you can enter the starting value of the counter.
+ 
+ Try the app at this link: https://luca-gherardi.github.io/counterProjectJavascript/index.html
