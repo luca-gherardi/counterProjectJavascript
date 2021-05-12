@@ -1,6 +1,6 @@
 # counterProjectJavascript
 
- This project is javascript app which works like a counter.
+ This project is a javascript app which works like a counter.
  
  I realized it for the "basics javascript course" of https://www.start2impact.it
  
