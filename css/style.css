@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background: black;
+}
+
+.container{
+  text-align: center;
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+h1{
+  font-size: 60px;
+  color: white;
+}
+
+#counterText{
+  border: 2px solid white;
+  width: 200px;
+  border-radius: 4px;
+}
+
+.button{
+  width: 200px;
+  transition-duration: 0.5s;
+  background-color: white;
+  color: black;
+  padding: 10px 30px;
+  font-size: 20px;
+  margin-top: 20px;
+  cursor: pointer;
+  border-radius: 4px;
+  text-transform: uppercase;
+  border: none;
+  letter-spacing: 2px;
+}
+
+.button:hover{
+  background-color: green;
+  color: white;
+  box-shadow: 0 0 5px green,
+              0 0 25px green,
+              0 0 50px green,
+              0 0 200px green;
+}
